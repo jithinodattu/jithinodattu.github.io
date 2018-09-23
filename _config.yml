@@ -1,0 +1,31 @@
+name: Inference Machines
+description: >
+    Everything about Intelligent Machines.
+about: >
+    #dataengineering #machinelearning #cognitivescience #computationalneuroscience #probabilisticmodelling
+master_repo: false
+url: "http://Inferencemachines.com"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+
+logo:             
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           Jithin Odattu
+  avatar:         "https://avatars2.githubusercontent.com/u/1445218"
+  email:          ""
+  twitter: jithinodattu
+  github: https://github.com/jithinodattu
+  stackexchange: 
+  linkedin: 
+  google_plus:
+
+google_analytics:
+google_verify:
+bing_verify:
