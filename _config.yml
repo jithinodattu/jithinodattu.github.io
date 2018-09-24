@@ -19,11 +19,11 @@ rtl: false
 owner:
   name:           Jithin Odattu
   avatar:         "https://avatars2.githubusercontent.com/u/1445218?s=240&v=4"
-  email:          ""
-  twitter: jithinodattu
+  email: [firstname].[lastname]@gmail.com
+  twitter: https://twitter.com/jithinodattu
   github: https://github.com/jithinodattu
   stackexchange: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/jithin-odattu-ba662a63/
   google_plus:
 
 google_analytics:
