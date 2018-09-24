@@ -2,7 +2,7 @@ name: Inference Machines
 description: >
     Everything about Intelligent Machines.
 about: >
-    #dataengineering #machinelearning #cognitivescience #computationalneuroscience #probabilisticmodelling
+    #dataengineering #machinelearning #cognitivescience #computationalneuroscience #probabilisticmodeling
 master_repo: false
 url: "https://inferencemachines.com"
 markdown: kramdown
@@ -18,7 +18,7 @@ disqus_shortname:
 rtl: false
 owner:
   name:           Jithin Odattu
-  avatar:         "https://avatars2.githubusercontent.com/u/1445218"
+  avatar:         "https://avatars2.githubusercontent.com/u/1445218?s=240&v=4"
   email:          ""
   twitter: jithinodattu
   github: https://github.com/jithinodattu
